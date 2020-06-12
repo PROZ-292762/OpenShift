@@ -1,0 +1,11 @@
+proz/dockercalc/model/ArgumentPair.class
+proz/dockercalc/rest/Hello.class
+proz/dockercalc/rest/MemberResourceRESTService.class
+proz/dockercalc/rest/JaxRsActivator.class
+proz/dockercalc/data/MemberRepository.class
+proz/dockercalc/controller/MemberController.class
+proz/dockercalc/service/MemberRegistration.class
+proz/dockercalc/util/Resources.class
+proz/dockercalc/data/MemberListProducer.class
+proz/dockercalc/model/Member.class
+proz/dockercalc/model/Member_.class
